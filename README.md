@@ -1,2 +1,2 @@
 # PortfolioProjects
-This two projects are a part Alex Data Analyst Bootcamp.
+This two projects are a part of Alex Data Analyst Bootcamp.
